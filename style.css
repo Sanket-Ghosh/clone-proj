@@ -2,3 +2,14 @@ body{
     background-color:chocolate;
     color: cornsilk;
 }
+
+h1{
+    position: relative;
+}
+
+h1:hover{
+    cursor: pointer;
+    color: black;
+    text-align: center;
+    transition: 0.5s;
+}
